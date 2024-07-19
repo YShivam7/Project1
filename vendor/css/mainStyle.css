@@ -1,0 +1,32 @@
+.boxcontent{
+    height: 600px;
+    width: 350px;
+    margin-trim: 5px;
+}
+.card-img-top{
+    width: 300px;
+    height: 250px;
+}
+.product-title{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.product-mrp{
+    text-decoration: line-through;
+    font-size: 0.9rem;
+}
+.product-dis{
+    color: green;
+}
+.product-des{
+    font-size: 0.8rem;
+}
+.product-price{
+    font-size: 1rem;
+    font-weight: 650;
+    line-height: normal;
+}
+.product-img{
+    display: block;
+    margin: auto;
+}
